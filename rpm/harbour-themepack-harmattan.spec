@@ -14,7 +14,7 @@ Name:       harbour-themepack-harmattan
 %{?qtc_builddir:%define _builddir %qtc_builddir}
 Summary:        Harmattan theme pack
 Version:        0.1.0
-Release:        2
+Release:        3
 Group:          Qt/Qt
 License:        GPLv3
 Packager:       fravaccaro
