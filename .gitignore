@@ -1,0 +1,24 @@
+# C++ / Qt build artifacts
+*.slo
+*.lo
+*.o
+*.a
+*.so
+*.dll
+object_script.*
+*.pro.user*
+*.moc
+moc_*.cpp
+qrc_*.cpp
+Makefile*
+*build-*
+
+.sfdk/
+RPM/
+RPMS/
+SRPMS/
+BUILD/
+BUILDROOT/
+.cache/
+/harbour-themepack-harmattan
+translations/*.qm

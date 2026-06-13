@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=harbour-themepack-harmattan
+Exec=invoker --type=generic -s /usr/bin/harbour-themepack-harmattan
+Name=Harmattan
+
+[X-Sailjail]
+OrganizationName=org.themepack.harmattan
+ApplicationName=harbour-themepack-harmattan
+Sandboxing=Disabled

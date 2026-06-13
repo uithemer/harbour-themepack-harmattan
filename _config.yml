@@ -1,0 +1,35 @@
+remote_theme: just-the-docs/just-the-docs@v0.10.2
+
+title: Harmattan for Sailfish OS
+description: Harmattan theme for Sailfish OS
+
+url: "https://uithemer.github.io"
+baseurl: "/harbour-themepack-harmattan"
+repository: uithemer/harbour-themepack-harmattan
+
+search_enabled: false
+
+aux_links:
+  "Harmattan on GitHub":
+    - "https://github.com/uithemer/harbour-themepack-harmattan"
+
+exclude:
+  - appicons/
+  - other/
+  - qml/
+  - rpm/
+  - src/
+  - theme/
+  - translations/
+  - scripts/
+  - .cache/
+  - .sfdk/
+  - RPMS/
+  - LICENSE
+  - "*.desktop"
+  - "*.pro"
+  - "*.pro.user"
+  - .gitignore
+  - .github/
+  - .jekyll-cache/
+  - vendor/
