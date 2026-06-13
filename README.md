@@ -12,7 +12,7 @@ MeeGo Harmattan-style icons and Nokia Pure UI font for **[Muoto](https://openrep
 
 [![GitHub license](https://img.shields.io/github/license/uithemer/harbour-themepack-harmattan.svg)](https://github.com/uithemer/harbour-themepack-harmattan/blob/main/LICENSE) [![Donate on Liberapay](https://img.shields.io/badge/Donate-Liberapay-orange.svg)](https://liberapay.com/fravaccaro)
 
-![Haiku® theme on Sailfish OS](screenshot1.png)
+![Harmattan theme on Sailfish OS](screenshot1.png)
 
 ## Requirements
 
